@@ -3,28 +3,31 @@ html {
     min-height: 100%;
   }
   
-  body {
+body {
     text-align: center;
   }
   
-  .main-header {
-    padding-bottom: 15%;
-    width: 100%;
-    background-size: cover;
+      .main-header {
+        padding-bottom: 15%;
+       width: 100%;
+       background-size: cover;
     background-image: url("../images/header.jpg");
     background-attachment: fixed;
   }
   
   /* From here */
   header {
-      background-color: rgb(51, 50, 50);
+	  
+      background-color: pink;
       height: 70px;
   }
   
   header ul {
       padding: 1.5rem;
   }
-  
+  ul{
+	  margin:0;
+  }
   header ul a {
   text-decoration: none;
   color: white;
