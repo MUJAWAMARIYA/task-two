@@ -17,8 +17,13 @@ body {
   
   /* From here */
   header {
+<<<<<<< HEAD
 	  
       background-color: pink;
+=======
+      padding-top:10px;
+      background-color:pink;
+>>>>>>> 0869ce2fb863e3b1f8c2cae1d0cb6789910a13ef
       height: 70px;
   }
   
