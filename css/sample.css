@@ -17,6 +17,7 @@ html {
   
   /* From here */
   header {
+      padding-top:10px;
       background-color:pink;
       height: 70px;
   }
